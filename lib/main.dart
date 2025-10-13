@@ -1,70 +1,23 @@
 import 'package:flutter/material.dart';
 import 'Home.dart';
-main(){
-runApp(Myapp());
+import '13-10Task.dart';
+import '7-10-Task1.dart';
+import '7-10-Task2.dart';
+import 'Home.dart';
+import 'buottm-task10-10.dart';
 
+main() {
+
+  /*Class Task 13-10*/ 
+  runApp(Mybita());
 }
 
-
-class Myapp extends StatelessWidget{
+class Myapp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: HomeScreen()
-    );
+    return MaterialApp(home: HomeScreen());
   }
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*void main() {
   runApp(const MyApp());

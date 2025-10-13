@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-main() {
-  runApp(Sd());
-}
 
 class Sd extends StatelessWidget {
   @override

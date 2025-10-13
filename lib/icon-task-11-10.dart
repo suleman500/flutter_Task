@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-main() {
-  runApp(Boot());
-}
+
 
 class IconWidget extends StatelessWidget {
   @override

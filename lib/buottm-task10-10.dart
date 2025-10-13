@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-main() {
-  runApp(Boot());
-}
 
 class Boot extends StatelessWidget {
   @override
